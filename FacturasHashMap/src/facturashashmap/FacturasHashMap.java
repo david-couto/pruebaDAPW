@@ -45,7 +45,7 @@ public class FacturasHashMap {
         mapaFactura.put("000002", f2);
         mapaFactura.put("000003", f3);
         mapaFactura.put("000004", f4);
-        mapaFactura.put("000005", f5);
+        mapaFactura.put("000008", f5);
     }
 
     public static void main(String[] args) {
